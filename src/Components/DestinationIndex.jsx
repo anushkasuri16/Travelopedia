@@ -1,0 +1,16 @@
+import React from 'react'
+import AddDestination from './AddDestination'
+import DestinationList from './DestinationList'
+
+function DestinationIndex() {
+  return (
+    <div className='text-white-50'>
+
+<h1 className='text-success text-center'>TravelOpedia</h1>
+       <AddDestination/>  
+       <DestinationList></DestinationList>
+    </div>
+  )
+}
+
+export default DestinationIndex

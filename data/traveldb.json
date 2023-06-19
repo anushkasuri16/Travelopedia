@@ -1,0 +1,16 @@
+{
+  "destination": [
+    {
+      "id": 2,
+      "city": "Delhi",
+      "country": "India",
+      "daysNeeded": 4
+    },
+    {
+      "id": 6,
+      "city": "Dehradun",
+      "country": "India",
+      "daysNeeded": 6
+    }
+  ]
+}
